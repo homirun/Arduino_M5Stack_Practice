@@ -1,7 +1,6 @@
 #include <M5Stack.h>
 #include <DHT12.h>
 #include <Wire.h>
-#include "utility/MPU9250.h"
 
 DHT12 dht12;
 void setup() {
